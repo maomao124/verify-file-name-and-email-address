@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Project name(项目名称)：校验文件名和邮箱地址
+ * Project name(项目名称)：校验文件名和邮箱地址 verify-file-name-and-email-address
  * Package(包名): PACKAGE_NAME
  * Author(作者）: mao
  * Author QQ：1296193245
